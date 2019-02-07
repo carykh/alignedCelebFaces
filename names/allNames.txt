@@ -13019,3 +13019,5 @@ Michael Jackson,0,1958-2009
 Tana Mongeau,0,20
 Rosa Parks,0,1913-2005
 Henry Zhang,lol,lol
+Abraham Lincoln,-1,-1
+Adolf Hitler,-1,-1
