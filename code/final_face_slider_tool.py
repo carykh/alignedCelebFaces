@@ -551,6 +551,7 @@ while running:
                         for i in range(DENSE_SIZE):
                             settings[i] *= -1
                         shouldICalculateImage = True
+                        misspelledTimer = 0
                         enteredName = ""
                     elif mouse_loc[1] < 240:
                         enteringName = True
@@ -602,4 +603,3 @@ while running:
     drawButtons()
 
     pygame.display.flip()
-
