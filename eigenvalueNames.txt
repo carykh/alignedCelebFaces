@@ -1,0 +1,38 @@
+Lighting
+Skin tone
+Horizontal shading
+Horiz shading again
+Vertical shading
+Temperature
+Horiz shading again
+Ambient occlusion
+Perimeter shading
+Eyebrow height
+Horiz shading again
+Makeup
+Horiz shading again
+Head width
+Mouthy smile
+Vertical rotation
+Brow height again
+Horiz shading again
+Eye shading
+Cheeky smile
+Red-green coloring
+Smile 3
+Smile 4
+Eye size
+Eyebrow density
+Smile 5
+Forehead size
+Hair direction?
+Brow density again
+Nose size
+Chin length
+Jaw location
+Nostril visibility
+Eyebrow stuff
+More smile?
+More brow stuff
+Nose stuff
+Chin length 2
