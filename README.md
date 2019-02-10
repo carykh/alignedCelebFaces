@@ -14,7 +14,7 @@ python3 code/final_face_slider_tool.py
 
 ```
 
-# Controls:
+## Controls:
 Click on buttons and drag on sliders.
 Use the scroll wheel with your mouse over a PCA box for more fine-tuned control of the component.
 Use the scroll wheel with your mouse away from the the PCA boxes to navigate around the full 300-PCA list.
