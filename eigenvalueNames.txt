@@ -8,14 +8,14 @@ Horiz shading again
 Ambient occlusion
 Perimeter shading
 Eyebrow height
-Horiz shading again
+Diagonal shading
 Makeup
-Horiz shading again
+Red/blue hor. shade
 Head width
 Mouthy smile
 Vertical rotation
 Brow height again
-Horiz shading again
+Diag shading again
 Eye shading
 Cheeky smile
 Red-green coloring
