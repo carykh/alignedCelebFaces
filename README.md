@@ -13,6 +13,11 @@ _optional, but recommended: use venv_
 python3 code/final_face_slider_tool.py
 
 ```
+# Controls:
+Click on buttons and drag on sliders.
+Use the scroll wheel with your mouse over a PCA box for more fine-tuned control of the component.
+Use the scroll wheel with your mouse away from the the PCA boxes to navigate around the full 300-PCA list.
+
 
 ## How to add images
 Add your `.jpg` or `.png` images to the `/extra_images` folder and then run
@@ -26,4 +31,6 @@ _Note: all images in `/extra_images` will be run, even if they already exist in 
 # Notes
 
 There are the 13,014 images I trained the models on, but I don't want to upload them all. You can find that at https://www.famousbirthdays.com/.
+
+
 
