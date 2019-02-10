@@ -1,6 +1,10 @@
 # alignedCelebFaces
 Better version of my face editing tool. Explanation video here: https://www.youtube.com/watch?v=NTlXEJjfsQU
 
+TO RUN THIS GAME, run this:
+
+python3 code/final_face_slider_tool.py
+
 Are certain files missing? That's what I expected. There are two required files that are over 25 MB, which is over GitHub's limit.
 
 To find them, please go here
