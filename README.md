@@ -13,6 +13,7 @@ _optional, but recommended: use venv_
 python3 code/final_face_slider_tool.py
 
 ```
+
 # Controls:
 Click on buttons and drag on sliders.
 Use the scroll wheel with your mouse over a PCA box for more fine-tuned control of the component.
