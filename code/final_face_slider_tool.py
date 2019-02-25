@@ -462,12 +462,12 @@ def go_to_celeb(c):
         slider_settings = celebSliders[celeb_choice]
         if approach_settings[1] == 1:
             for i in range(DENSE_SIZE):
-                settings[i] += slider_settings[i] - settings[i] * approach_settings[0]
+                settings[i] += (slider_settings[i] - settings[i]) * approach_settings[0]
         else:
             transitionKeyFrames[0] = settings.copy()
             transitionKeyFrames[1] = settings.copy()
             for i in range(DENSE_SIZE):
-                transitionKeyFrames[1, i] += slider_settings[i] - settings[i] * approach_settings[0]
+                transitionKeyFrames[1, i] += (slider_settings[i] - settings[i]) * approach_settings[0]
             transitionTimes[0] = frameTimer - 1
             transitionTimes[1] = frameTimer - 1 + 100 * (1 - approach_settings[1])  # really bad magic numbers oh well
     return 0
